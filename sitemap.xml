@@ -2,18 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <!-- Homepage -->
 <url>
-  <loc>https://lexicusterdesigns.github.io/index.html</loc>
+  <loc>https://mountainbeancafe.github.io/index.html</loc>
 </url>
 <!-- About Us Page -->
 <url>
-<loc>https://lexicusterdesigns.github.io/pages/about.html</loc>
+<loc>https://mountainbeancafe.github.io/about.html
+</loc>
 </url>
 <!-- Services -->
 <url>
-<loc>https://lexicusterdesigns.github.io/pages/services.html</loc>
+<loc>https://mountainbeancafe.github.io/subscriptions.html</loc>
 </url>
 <!-- Contact Page -->
 <url>
-<loc>https://lexicusterdesigns.github.io/pages/contact.html</loc>
+<loc>https://mountainbeancafe.github.io/contact.html</loc>
 </url>
 </urlset>
